@@ -1,6 +1,8 @@
 # Welcome to the Focus Bear Intern Onboarding Repository! 🚀
 
-# Modify 3.4
+
+### Correct Modify
+
 
 ## 🌟 About Your Learning Journey
 Welcome to your first task as a Focus Bear intern! This repository is designed to guide you through your onboarding process by providing **structured learning materials** and **practical tasks**. You’ll start by setting up your own project repository, which will serve as a workspace for your internship. This will help you become comfortable with GitHub workflows, automation, and best practices.

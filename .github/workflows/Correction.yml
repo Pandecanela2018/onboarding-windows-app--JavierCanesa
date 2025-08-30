@@ -1,4 +1,4 @@
-name: Markdown Quality Checks
+name: Lint and Spell Check
 
 on:
   pull_request:
@@ -6,13 +6,25 @@ on:
       - '**/*.md'
 
 jobs:
-  lint-and-spellcheck:
+  markdown-checks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
       - name: Install dependencies
-        run: npm install -g markdownlint-cli cspell
+        run: |
+          npm install -g markdownlint-cli
+          npm install -g cspell
+
       - name: Run markdownlint
         run: markdownlint "**/*.md"
-      - name: Run spell check
+
+      - name: Run cspell
         run: cspell "**/*.md"
+

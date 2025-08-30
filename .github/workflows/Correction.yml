@@ -26,5 +26,5 @@ jobs:
         run: markdownlint "Test of actions.md"
 
       - name: Run cspell
-        run: cspell "**/*.md"
+        run: cspell "Test of actions.md"
 

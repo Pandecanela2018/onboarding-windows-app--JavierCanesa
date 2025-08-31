@@ -4,6 +4,7 @@
   "description": "Welcome to your first task as a Focus Bear intern! This repository is designed to guide you through your onboarding process by providing **structured learning materials** and **practical tasks**. You’ll start by setting up your own project repository, which will serve as a workspace for your internship. This will help you become comfortable with GitHub workflows, automation, and best practices.",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,15 @@
   },
   "homepage": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa#readme",
   "devDependencies": {
-    "husky": "^9.1.7"
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.5",
+    "markdownlint-cli": "^0.45.0"
+  },
+
+  "lint-staged": {
+    "Test of actions.md": "markdownlint"
   }
 }

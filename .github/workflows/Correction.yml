@@ -1,4 +1,4 @@
-name: Lint and Spell Check
+name: CI-Lint and cspell
 
 on:
   pull_request:

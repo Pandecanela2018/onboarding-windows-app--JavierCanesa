@@ -44,7 +44,7 @@
     "wrap-ansi": "^9.0.0",
     "yaml": "^2.8.1"
   },
-  "devDependencies": {},
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -57,5 +57,13 @@
   "bugs": {
     "url": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa/issues"
   },
-  "homepage": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa#readme"
+
+  "homepage": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.6",
+    "markdownlint": "^0.38.0",
+    "markdownlint-cli": "^0.45.0"
+  }
+
 }

@@ -1,0 +1,61 @@
+{
+  "name": "onboarding-windows-app--javiercanesa",
+  "version": "1.0.0",
+  "description": "Welcome to your first task as a Focus Bear intern! This repository is designed to guide you through your onboarding process by providing **structured learning materials** and **practical tasks**. You’ll start by setting up your own project repository, which will serve as a workspace for your internship. This will help you become comfortable with GitHub workflows, automation, and best practices.",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-escapes": "^7.0.0",
+    "ansi-regex": "^6.2.0",
+    "ansi-styles": "^6.2.1",
+    "braces": "^3.0.3",
+    "chalk": "^5.6.0",
+    "cli-cursor": "^5.0.0",
+    "cli-truncate": "^4.0.0",
+    "colorette": "^2.0.20",
+    "commander": "^14.0.0",
+    "debug": "^4.4.1",
+    "emoji-regex": "^10.5.0",
+    "environment": "^1.1.0",
+    "eventemitter3": "^5.0.1",
+    "fill-range": "^7.1.1",
+    "get-east-asian-width": "^1.3.1",
+    "husky": "^9.1.7",
+    "is-fullwidth-code-point": "^4.0.0",
+    "is-number": "^7.0.0",
+    "lilconfig": "^3.1.3",
+    "lint-staged": "^16.1.6",
+    "listr2": "^9.0.3",
+    "log-update": "^6.1.0",
+    "micromatch": "^4.0.8",
+    "mimic-function": "^5.0.1",
+    "ms": "^2.1.3",
+    "nano-spawn": "^1.0.2",
+    "onetime": "^7.0.0",
+    "picomatch": "^2.3.1",
+    "pidtree": "^0.6.0",
+    "restore-cursor": "^5.1.0",
+    "rfdc": "^1.4.1",
+    "signal-exit": "^4.1.0",
+    "slice-ansi": "^5.0.0",
+    "string-argv": "^0.3.2",
+    "string-width": "^7.2.0",
+    "strip-ansi": "^7.1.0",
+    "to-regex-range": "^5.0.1",
+    "wrap-ansi": "^9.0.0",
+    "yaml": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa.git"
+  },
+  "author": "Javier Canesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa/issues"
+  },
+  "homepage": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa#readme"
+}

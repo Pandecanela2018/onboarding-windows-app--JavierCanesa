@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Pandecanela2018/onboarding-windows-app--JavierCanesa#readme",
   "devDependencies": {
-    "husky": "^9.1.7"
+    "husky": "^9.1.7",
+    "markdownlint": "^0.38.0",
+    "markdownlint-cli": "^0.45.0"
   }
 }

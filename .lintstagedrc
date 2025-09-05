@@ -1,5 +1,5 @@
 {
     "*.js": ["eslint"],
-    "*.md": ["npx markdownlint --ignore README.md"],
+    "*.md": ["npx markdownlint"],
     "*.cs" : ["dotnet format" ]
 }

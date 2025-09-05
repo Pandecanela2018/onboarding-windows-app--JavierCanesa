@@ -1,5 +1,5 @@
 .history
-node_modules/
-duplicated_files/
+node_modules
+duplicated_files
 README.md
 .env

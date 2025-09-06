@@ -23,8 +23,8 @@ jobs:
           npm install -g cspell
 
       - name: Run markdownlint
-        run: markdownlint "Test of actions.md"
+        run: markdownlint "**/*.md"
 
       - name: Run cspell
-        run: cspell "Test of actions.md"
+        run: cspell "**/*.md"
 

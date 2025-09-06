@@ -1,4 +1,4 @@
-# Reflexion
+# Reflection
 
 ## What was the issue with the original code?
 
@@ -8,5 +8,5 @@ but in this case it is not handled, so my code breaks.
 ## How does handling errors improve reliability?
 
 I think to handling errors is more important in software development.
-In addition, It avoid errors with customer and prevent faltal errors in
+In addition, It avoid errors with customer and prevent fatal errors in
 the code.

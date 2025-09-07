@@ -18,4 +18,4 @@ Function addition(a,b){
 In this case, you don’t have to comment. On the other hand,
 if you need to improve the code, you should change variable names, like this:
 
-int U = 10 ---> int ActiveUsercount = 10.
+int U = 10 ---> int ActiveUsers = 10.

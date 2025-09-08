@@ -8,5 +8,5 @@ the performance could be low.
 ## How did refactoring improve it?
 
 Code refactoring improves performance because it is shorter
-and the statesments are in guard clauses, so it will be easier to maintain.
+and the statements are in guard clauses, so it will be easier to maintain.
 if you have an error or bug, you can fix it quickly.

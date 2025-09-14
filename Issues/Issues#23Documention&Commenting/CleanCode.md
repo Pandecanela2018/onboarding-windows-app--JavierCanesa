@@ -1,4 +1,4 @@
-# Reflection  
+# Reflection
 
 ## When should you add comments?
 
@@ -12,7 +12,7 @@ when the variable is clearly and you don't need to comment, for example
 
 //this function addition two numbers.
 Function addition(a,b){
-    return a + b
+return a + b
 }
 
 In this case, you don’t have to comment. On the other hand,

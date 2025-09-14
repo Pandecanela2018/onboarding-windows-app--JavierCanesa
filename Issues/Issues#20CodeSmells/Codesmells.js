@@ -1,4 +1,3 @@
-
 //1- Magic Numbers & Strings – Using hardcoded values instead of constants.
 function calcularDescuento(precio) {
   if (precio > 100) {
@@ -9,13 +8,13 @@ function calcularDescuento(precio) {
   return precio;
 }
 function saludar(usuario) {
-  if (usuario === "admin") {
-    return "Bienvenido, administrador";
+  if (usuario === 'admin') {
+    return 'Bienvenido, administrador';
   }
-  return "Bienvenido, usuario";
+  return 'Bienvenido, usuario';
 }
 console.log(calcularDescuento(120)); // 108
-console.log(saludar("admin")); // Bienvenido, administrador
+console.log(saludar('admin')); // Bienvenido, administrador
 
 /*
 Refactor
@@ -170,7 +169,6 @@ imprimirArea("rectángulo", calcularAreaRectangulo(5, 10));
 imprimirArea("cuadrado", calcularAreaCuadrado(5));
 
 */
-
 
 /*
 4-Large Classes (God Objects) – Classes that handle too many responsibilities.

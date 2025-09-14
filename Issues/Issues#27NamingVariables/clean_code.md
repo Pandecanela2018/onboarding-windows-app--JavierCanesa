@@ -6,7 +6,7 @@ You need to be clear, descriptive, and consistent.
 The name must describe its purpose so that other developers can
 understand what it is used for. for example:
 **const Useractive = true** clearly indicates that it stores the users
-who are active in the system,in addition,  function must to describe
+who are active in the system,in addition, function must to describe
 what it does. for example: **function Registeruseractive {User}**.
 
 ## What issues can arise from poorly named variables?

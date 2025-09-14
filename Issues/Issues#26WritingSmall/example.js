@@ -1,6 +1,5 @@
-
-const userName = "javier Canesa"
-const userEmail = "javier@gmail.com "
+const userName = 'javier Canesa';
+const userEmail = 'javier@gmail.com ';
 
 /*
 function processName(userName, userEmail) {
@@ -32,20 +31,15 @@ function sendWelcomeEmail(email) {
 processName(userName, userEmail);
 */
 
-
 function processName(userName, userEmail) {
-
-  if (!userEmail.includes("@")) {
-    console.log(" Invalid email. Please enter a valid email address.");
+  if (!userEmail.includes('@')) {
+    console.log(' Invalid email. Please enter a valid email address.');
     return;
   }
 
-
   console.log(` User "${userName}" saved successfully.`);
-
 
   console.log(` Welcome email sent to ${userEmail}.`);
 }
 
-
-processName(userName, userEmail);   
+processName(userName, userEmail);

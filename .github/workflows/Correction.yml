@@ -27,4 +27,3 @@ jobs:
 
       - name: Run cspell
         run: cspell "**/*.md"
-

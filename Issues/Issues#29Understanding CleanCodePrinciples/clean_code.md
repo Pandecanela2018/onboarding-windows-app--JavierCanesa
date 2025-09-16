@@ -2,7 +2,7 @@
 
 ## Summarize the following clean code principles
 
-**DRY (Don't Repeat Yourselft)**: Don't repeat the same function twice.
+**DRY (Don't Repeat Yourself)**: Don't repeat the same function twice.
 
 **SRP (Single Responsability Principle)**: Each function have to
 work for especfic action.

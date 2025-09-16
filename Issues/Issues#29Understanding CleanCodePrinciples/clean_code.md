@@ -4,8 +4,8 @@
 
 **DRY (Don't Repeat Yourself)**: Don't repeat the same function twice.
 
-**SRP (Single Responsability Principle)**: Each function have to
-work for especfic action.
+**SRP (Single Responsability Principle)**: Each function has to work for a
+specific action.
 
 **Readability:** The code should be easy to read and understand by any
 developer.

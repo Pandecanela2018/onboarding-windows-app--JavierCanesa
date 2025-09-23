@@ -4,3 +4,6 @@ coverage
 node_modules/
 dist/
 duplicate-repo/
+.vs
+*.vsidx
+.json

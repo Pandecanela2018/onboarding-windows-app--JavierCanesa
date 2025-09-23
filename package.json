@@ -47,9 +47,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint **/*.{js,json} --fix",
-    "refactoring": "prettier --write . ",
-    "Checkformat": "prettier --check . "
+    "lint": "eslint **/*.{js,json,md} --fix",
+    "refactoring": "prettier --write **/*.md",
+    "checkformat": "prettier --check **/*.md"
   },
   "repository": {
     "type": "git",

@@ -3,3 +3,4 @@ node_modules
 duplicated_files
 README.md
 .env
+example/

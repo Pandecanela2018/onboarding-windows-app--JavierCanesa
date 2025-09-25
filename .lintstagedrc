@@ -1,6 +1,5 @@
 {
   "*.js": ["eslint --fix", "prettier --write"],
-  "*.md": ["npx markdownlint --fix"],
-  "*.cs": ["dotnet format"],
+  "*.md": ["markdownlint --fix", "prettier --write"],
   "*.json": ["prettier --write"]
 }

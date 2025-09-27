@@ -1,0 +1,8 @@
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\canes\OneDrive\Escritorio\Prueba\Prueba\obj\Debug\Prueba.exe.config

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canes\\Desktop\\example19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|c:\\users\\canes\\desktop\\example19\\example19\\example19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF539246-9107-4593-96BF-C092FE67CFA7}|example19\\example19.csproj|solutionrelative:example19\\example19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 178,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\App.xaml.cs",
+              "RelativeDocumentMoniker": "example19\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\App.xaml.cs",
+              "RelativeToolTip": "example19\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:39:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "example19",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\example19.csproj",
+              "RelativeDocumentMoniker": "example19\\example19.csproj",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\example19.csproj",
+              "RelativeToolTip": "example19\\example19.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T05:38:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "example19\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\AssemblyInfo.cs",
+              "RelativeToolTip": "example19\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:38:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\App.xaml",
+              "RelativeDocumentMoniker": "example19\\App.xaml",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\App.xaml",
+              "RelativeToolTip": "example19\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-29T05:38:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "example19\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\MainWindow.xaml",
+              "RelativeToolTip": "example19\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-29T04:36:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\example19\\example19\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "example19\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\example19\\example19\\MainWindow.xaml.cs",
+              "RelativeToolTip": "example19\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:36:22.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

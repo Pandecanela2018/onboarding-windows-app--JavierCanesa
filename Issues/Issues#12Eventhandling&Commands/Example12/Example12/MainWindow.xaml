@@ -1,0 +1,14 @@
+﻿<Window x:Class="Example12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Button Content="ICOMMAND" Height="50" Background="Beige" FontStyle="Italic"
+        Command="{Binding ShowMessageCommand}" Margin="268,167,439,217"/>
+        <Button Content="STANDAR" Height="50" Background="LightBlue" FontStyle="Italic" Margin="488,167,222,217" Click="Button_Click"/>
+    </Grid>
+</Window>

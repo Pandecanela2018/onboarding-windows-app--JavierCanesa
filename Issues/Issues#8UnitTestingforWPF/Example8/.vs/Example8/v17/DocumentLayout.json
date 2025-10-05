@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canes\\Desktop\\Example8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|c:\\users\\canes\\desktop\\example8\\example.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|solutionrelative:example.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|c:\\users\\canes\\desktop\\example8\\example.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|solutionrelative:example.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|c:\\users\\canes\\desktop\\example8\\example.tests\\example.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{717E4BA5-503F-49E1-874A-59EDC7A9E28A}|Example.Tests\\Example.Tests.csproj|solutionrelative:example.tests\\example.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\models\\sumamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\models\\sumamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\example8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\example8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\canes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\viewmodels\\sumaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\viewmodels\\sumaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|c:\\users\\canes\\desktop\\example8\\example8\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3FC91D-A64C-421B-AA81-9287BB452EA6}|Example8\\Example8.csproj|solutionrelative:example8\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEwHAAAAAAAAAAAawGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-05T04:09:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Example.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Example.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:08:36.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.Tests",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\Example.Tests.csproj",
+              "RelativeDocumentMoniker": "Example.Tests\\Example.Tests.csproj",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\Example.Tests.csproj",
+              "RelativeToolTip": "Example.Tests\\Example.Tests.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T04:06:24.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "Example.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example.Tests\\Test1.cs",
+              "RelativeToolTip": "Example.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:06:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Example8",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Example8.csproj",
+              "RelativeDocumentMoniker": "Example8\\Example8.csproj",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Example8.csproj",
+              "RelativeToolTip": "Example8\\Example8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T04:01:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Example8\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\AssemblyInfo.cs",
+              "RelativeToolTip": "Example8\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:01:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Example8\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\App.xaml.cs",
+              "RelativeToolTip": "Example8\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:00:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\App.xaml",
+              "RelativeDocumentMoniker": "Example8\\App.xaml",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\App.xaml",
+              "RelativeToolTip": "Example8\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-05T04:00:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\canes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:59:08.488Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Example8\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "Example8\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:57:01.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sumaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\ViewModels\\sumaViewModel.cs",
+              "RelativeDocumentMoniker": "Example8\\ViewModels\\sumaViewModel.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\ViewModels\\sumaViewModel.cs",
+              "RelativeToolTip": "Example8\\ViewModels\\sumaViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:56:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sumaModel.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Models\\sumaModel.cs",
+              "RelativeDocumentMoniker": "Example8\\Models\\sumaModel.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Models\\sumaModel.cs",
+              "RelativeToolTip": "Example8\\Models\\sumaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:56:23.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Example8\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Example8\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:54:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Example8\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\canes\\Desktop\\Example8\\Example8\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Example8\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-05T03:54:39.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
